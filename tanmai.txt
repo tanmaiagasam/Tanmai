@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hello
 
+=======
+hiiiihello
+>>>>>>> 29549f9 (first commit in feature)
